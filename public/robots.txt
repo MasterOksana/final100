@@ -1,0 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: 6c30057a-e1f8-4616-aba7-800451b172a2
+Disallow: clientId
